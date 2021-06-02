@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my ignore list
+botrun.bat
+.idea/*
+.idea
+.idea/
